@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Paim41/Paim41/main/Coding%20The%20Matrix%20GIF.gif" width="300"/>
-</p>
+<img width="1181" height="956" alt="terminal" src="https://github.com/user-attachments/assets/098977b0-c7f0-4d13-84fa-e654ea00b7d6" />
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
