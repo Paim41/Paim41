@@ -1,4 +1,5 @@
-<img width="1181" height="956" alt="terminal" src="https://github.com/user-attachments/assets/098977b0-c7f0-4d13-84fa-e654ea00b7d6" />
+<img width="800" height="450" alt="terminal (1)" src="https://github.com/user-attachments/assets/42b78837-6364-486b-9aff-8cdf71975dfc" />
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
