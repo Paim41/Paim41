@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
+</div>
+
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Hi, I'm Paim</h1>
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
 
