@@ -1,9 +1,16 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="300"/>
+</p>
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Hi, I'm Paim</h1>
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paim41&label=Profile%20views&color=0e75b6&style=flat" alt="paim41" />
 </p>
+
+
 
 ---
 
