@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paim</h1>
-<h3 align="center">Web Application Developer | Passionate about building scalable and user-friendly web applications</h3>
+<h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paim41&label=Profile%20views&color=0e75b6&style=flat" alt="paim41" />
@@ -7,36 +7,47 @@
 
 ---
 
-<h3>🚀 About Me</h3>
+<h3>👨‍💻 About Me</h3>
 
-- 🔭 I’m currently working on improving my web development skills  
-- 🌱 I’m currently learning advanced web technologies  
-- 👯 I’m looking to collaborate on web application projects  
-- 👨‍💻 All of my projects are available at:  
-  👉 https://portfoliopaim.vercel.app/  
+- 🔭 I’m currently improving my web development skills  
+- 🌱 I’m learning advanced web technologies  
+- 🤝 I’m open to collaborating on web application projects  
+- 🌐 Portfolio: https://portfoliopaim.vercel.app/  
 - 💬 Ask me about **Frontend & Backend Development**  
-- 📫 Reach me at: **sakacomel@gmail.com**  
-- ⚡ Fun fact: I love turning ideas into real-world web apps  
+- 📧 Email: **sakacomel@gmail.com**  
+- ⚡ Fun fact: I enjoy turning ideas into real-world web apps  
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/paim41/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
+</td>
+
+<td align="center">
 <a href="https://fb.com/paim41" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
 </a>
+</td>
+
+<td align="center">
 <a href="https://instagram.com/paim41" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">🧰 Languages & Tools</h3>
 
 <p align="center">
 <table align="center">
@@ -72,5 +83,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
 </p>
