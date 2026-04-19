@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paim</h1>
+<h1 align="center">Hi, I'm Paim</h1>
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
 
 <p align="center">
@@ -7,19 +7,17 @@
 
 ---
 
-<h3>👨‍💻 About Me</h3>
+<h3>About Me</h3>
 
-- 🔭 I’m currently improving my web development skills  
-- 🌱 I’m learning advanced web technologies  
-- 🤝 I’m open to collaborating on web application projects  
-- 🌐 Portfolio: https://portfoliopaim.vercel.app/  
-- 💬 Ask me about **Frontend & Backend Development**  
-- 📧 Email: **sakacomel@gmail.com**  
-- ⚡ Fun fact: I enjoy turning ideas into real-world web apps  
+- I’m currently improving my web development skills  
+- I’m learning advanced web technologies  
+- I’m open to collaborating on web application projects  
+- Ask me about Frontend & Backend Development
+- Fun fact: I enjoy turning ideas into real-world web apps  
 
 ---
 
-<h3 align="center">🔗 Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
 <table align="center">
@@ -47,7 +45,7 @@
 
 ---
 
-<h3 align="center">🧰 Languages & Tools</h3>
+<h3 align="center">Tech Stack </h3>
 
 <p align="center">
 <table align="center">
@@ -75,12 +73,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paim41&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paim41&theme=tokyonight" />
-</p>
+<h3 align="center">Stats</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
