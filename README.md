@@ -1,11 +1,3 @@
-<img width="800" height="450" alt="terminal (1)" src="https://github.com/user-attachments/assets/42b78837-6364-486b-9aff-8cdf71975dfc" />
-
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
-</div>
-
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Hi, I'm Paim</h1>
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
 
@@ -18,13 +10,26 @@
 
 ---
 
-<h3>About Me</h3>
+<p align="center">
+  <img width="552" height="449" alt="paim41" src="https://github.com/user-attachments/assets/cafdcaab-f140-4483-b6d7-f4d9313bfd2d"/>
+</p>
+
+<br />
+
+> **GIF loading a little slow? You can drink a cup of ☕ first**.
+
+<br/>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
+</div>
+
+
+<h3>More About Me</h3>
 <pre>
-- I’m currently improving my web development skills  
 - I’m learning advanced web technologies  
 - I’m open to collaborating on web application projects  
 - Ask me about Frontend & Backend Development
-- Fun fact: I enjoy turning ideas into real-world web apps  
 </pre>
 
 ---
