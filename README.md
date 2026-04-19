@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paim41/Paim41/main/Coding%20The%20Matrix%20GIF.gif" width="300"/>
+</p>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
 </div>
