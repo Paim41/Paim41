@@ -17,27 +17,36 @@
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect</h3>
 
+<h3 align="center">Connect</h3>
 <p align="center">
 <table align="center">
 <tr>
 <td align="center">
-<a href="https://www.linkedin.com/in/paim41/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/paim41/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
 </td>
-
 <td align="center">
-<a href="https://fb.com/paim41" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
+  <a href="https://fb.com/paim41" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
 </td>
-
 <td align="center">
-<a href="https://instagram.com/paim41" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
+  <a href="https://instagram.com/paim41" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://portfoliopaim.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:sakacomel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
 </td>
 </tr>
 </table>
