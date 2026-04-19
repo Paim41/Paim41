@@ -6,36 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=paim41&label=Profile%20views&color=0e75b6&style=flat" alt="paim41" />
 </p>
 
-
-
----
-
-<p align="center">
-  <img width="552" height="449" alt="paim41" src="https://github.com/user-attachments/assets/cafdcaab-f140-4483-b6d7-f4d9313bfd2d"/>
-</p>
-
-<br />
-
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
-
-<br/>
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
-</div>
-
-
-<h3>More About Me</h3>
-<pre>
-- I’m learning advanced web technologies  
-- I’m open to collaborating on web application projects  
-- Ask me about Frontend & Backend Development
-</pre>
-
----
-
-<h3 align="center">Connect</h3>
-
 <p align="center">
 <table align="center">
 <tr>
@@ -70,6 +40,28 @@
 
 ---
 
+<p align="center">
+  <img width="552" height="449" alt="paim41" src="https://github.com/user-attachments/assets/cafdcaab-f140-4483-b6d7-f4d9313bfd2d"/>
+</p>
+
+<br />
+
+> **GIF loading a little slow? You can drink a cup of ☕ first**.
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
+</div>
+
+<h3>More About Me</h3>
+<pre>
+- I’m learning advanced web technologies  
+- I’m open to collaborating on web application projects  
+- Ask me about Frontend & Backend Development
+</pre>
+
+---
+
 <h3 align="center">Tech Stack </h3>
 
 <p align="center">
@@ -95,11 +87,7 @@
 </tr>
 </table>
 </p>
-
----
-
-<h3 align="center">Stats</h3>
-
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
 </p>
