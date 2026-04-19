@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paim</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Hi, I'm Paim</h1>
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
 
 <p align="center">
@@ -8,12 +8,13 @@
 ---
 
 <h3>About Me</h3>
-
+<pre>
 - I’m currently improving my web development skills  
 - I’m learning advanced web technologies  
 - I’m open to collaborating on web application projects  
 - Ask me about Frontend & Backend Development
 - Fun fact: I enjoy turning ideas into real-world web apps  
+</pre>
 
 ---
 
