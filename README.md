@@ -46,7 +46,9 @@
 </p>
 
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <p align="center">
   <img width="552" src="https://github.com/user-attachments/assets/08d6e597-54f6-488d-9349-5412d46d6d60" />
@@ -61,7 +63,9 @@
   <img height="150" src="https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif" />
 </div>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <h3 align="center">𝙈𝙤𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h3>
 
@@ -73,7 +77,9 @@
 
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
 
 <h3 align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
 
@@ -105,4 +111,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
+</p>
+
+<br>
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 </p>
