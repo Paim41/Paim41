@@ -40,8 +40,8 @@
 
 ---
 
-<p align="center">
-  <img width="552" height="449" alt="asset" src="https://github.com/user-attachments/assets/271b5239-ba1c-47a1-979e-2b6837b6d104" />
+<p align="center
+  <img width="552" height="449" alt="asset" src="https://github.com/user-attachments/assets/08d6e597-54f6-488d-9349-5412d46d6d60" />
 </p>
 
 <br />
