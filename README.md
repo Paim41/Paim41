@@ -38,10 +38,11 @@
 </table>
 </p>
 
+
 ---
 
-<p align="center
-  <img width="552" height="449" alt="asset" src="https://github.com/user-attachments/assets/08d6e597-54f6-488d-9349-5412d46d6d60" />
+<p align="center">
+  <img width="552" src="https://github.com/user-attachments/assets/08d6e597-54f6-488d-9349-5412d46d6d60" />
 </p>
 
 <br />
@@ -50,19 +51,24 @@
 
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif"  />
+  <img height="150" src="https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif" />
 </div>
-
-<h3>More About Me</h3>
-<pre>
-- I’m learning advanced web technologies  
-- I’m open to collaborating on web application projects  
-- Ask me about Frontend & Backend Development
-</pre>
 
 ---
 
-<h3 align="center">Tech Stack </h3>
+<h3 align="center">More About Me</h3>
+
+<p align="center">
+  
+- I’m learning advanced web technologies  
+- I’m open to collaborating on web application projects  
+- Ask me about Frontend & Backend Development  
+
+</p>
+
+---
+
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
 <table align="center">
@@ -87,7 +93,9 @@
 </tr>
 </table>
 </p>
+
 <br>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
 </p>
