@@ -1,9 +1,16 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Hi, I'm Paim</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />𝙃𝙞, 𝙄’𝙢 𝙋𝙖𝙞𝙢</h1>
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paim41&label=Profile%20views&color=0e75b6&style=flat" alt="paim41" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.paimfolio.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-darkblue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -56,7 +63,7 @@
 
 ---
 
-<h3 align="center">More About Me</h3>
+<h3 align="center">𝙈𝙤𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h3>
 
 <p align="center">
   
@@ -68,7 +75,7 @@
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
 
 <p align="center">
 <table align="center">
