@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img width="552" height="449" alt="paim41" src="https://github.com/user-attachments/assets/cafdcaab-f140-4483-b6d7-f4d9313bfd2d"/>
+  <img width="552" height="449" alt="asset" src="https://github.com/user-attachments/assets/271b5239-ba1c-47a1-979e-2b6837b6d104" />
 </p>
 
 <br />
