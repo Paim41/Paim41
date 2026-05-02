@@ -32,11 +32,6 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://portfoliopaim.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" width="40"/>
-  </a>
-</td>
-<td align="center">
   <a href="mailto:sakacomel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40"/>
   </a>
