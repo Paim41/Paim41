@@ -54,10 +54,6 @@
 > **GIF loading a little slow? You can drink a cup of ☕ first**.
 
 
-<div align="center">
-  <img height="150" src="https://github.com/Paim41/Paim41/blob/main/Coding%20The%20Matrix%20GIF.gif" />
-</div>
-
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 </p>
