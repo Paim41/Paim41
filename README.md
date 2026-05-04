@@ -55,7 +55,7 @@
 
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+  <img src="./assets/divider-blue.svg" width="100%" height="6" alt="" />
 </p>
 
 <h3 align="center">𝙈𝙤𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h3>
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+  <img src="./assets/divider-blue.svg" width="100%" height="6" alt="" />
 </p>
 
 <h3 align="center">𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
@@ -106,7 +106,7 @@
 
 <br>
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+  <img src="./assets/divider-green.svg" width="100%" height="6" alt="" />
 </p>
 
 <p align="center">
@@ -117,6 +117,6 @@
 
 <br>
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+  <img src="./assets/divider-green.svg" width="100%" height="6" alt="" />
 </p>
 
