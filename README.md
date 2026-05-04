@@ -108,3 +108,15 @@
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 </p>
+
+<p align="center">
+<img width="400" alt="AISHA RETRO" src="https://github.com/user-attachments/assets/6333a000-b943-4e05-9cdf-bc713c7c30bf" /> 
+
+
+<p align="center"> — 𝙳𝚘 𝚠𝚑𝚊𝚝 𝚢𝚘𝚞 𝚌𝚊𝚗, 𝚠𝚒𝚝𝚑 𝚠𝚑𝚊𝚝 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎, 𝚠𝚑𝚎𝚛𝚎 𝚢𝚘𝚞 𝚊𝚛𝚎.
+
+<br>
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" height="6" alt="" />
+</p>
+
