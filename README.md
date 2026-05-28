@@ -101,12 +101,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paim41&layout=compact&theme=tokyonight" />
-</p>
-
-<br>
-
-<p align="center">
   <img src="./assets/divider-green.svg" width="100%" height="6" alt="" />
 </p>
 
