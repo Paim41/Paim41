@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <a href="https://[paimfolio.vercel.app](https://www.paimfolio.my.id/)/" target="_blank">
+  <a href="https://www.paimfolio.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-darkblue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
