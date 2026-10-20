@@ -2,7 +2,8 @@
 <h3 align="center">Web Application Developer | Building scalable and user-friendly web applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paim41&label=Profile%20views&color=0e75b6&style=flat" alt="paim41" />
+  <img src="https://komarev.com/ghpvc/?username=paim41&color=blue" alt="paim41" />
+  
 </p>
 
 <br>
